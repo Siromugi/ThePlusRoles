@@ -6,5 +6,5 @@ This mods is not affiliated with Among Us or Innersloth LLC, and the content con
 # Wiki
 Modを公開したらWikiも公開します
 # 注意
-このModに起きたバグは**必ず**TPR公式GmailかDiscordサーバーへ送ってください。
+このModに起きたバグは**必ず**TPR公式Discordサーバーへ送ってください。
 **AmongUs公式には絶対に報告しないでください**
