@@ -4,9 +4,9 @@ This mods is not affiliated with Among Us or Innersloth LLC, and the content con
 # Modのダウンロード
 現在製作中です
 # Wiki
-Modを公開したらWikiも公開します
+[TPR公式@wiki](https://w.atwiki.jp/theplusroles/)
 # Discordサーバー
-https://discord.gg/QBFYYuPDWq
+[TPR公式Discordサーバー](https://discord.gg/QBFYYuPDWq)
 # 注意
 このModに起きたバグは**必ず**TPR公式Discordサーバーへ送ってください。
 **AmongUs公式には絶対に報告しないでください**
